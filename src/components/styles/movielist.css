@@ -1,0 +1,23 @@
+tr:hover {
+    background-color: #d7d7d7;
+  }
+  
+  button:active {
+    background-color: #ebebee;
+    color: rgb(236, 16, 16);
+  }
+  thead {
+    background-color: #f0f0f0;
+  }
+  table {
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+    border: 2px solid #d7d7d7;
+  }
+  td,
+  th,
+  tr {
+    border: 2px solid #d7d7d7;
+  }
